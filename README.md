@@ -180,7 +180,6 @@ MIT License — see [LICENSE](LICENSE) for details.
 
 ## 👤 Author
 
-**Thanka Bharathi** — Data Scientist & AI/ML Developer  
-📧 Email: [thankabharathi0@gmail.com]  
-🔗 LinkedIn: [https://www.linkedin.com/in/thankabharathi/]  
-🐙 GitHub: [https://github.com/ThankaBharathi]  
+**Hemavathi R** — Data Scientist & AI/ML Developer  
+📧 Email: [hemavathi1370@gmail.com]  
+🐙 GitHub: [https://github.com/Hemavathi875]  
